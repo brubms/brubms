@@ -12,6 +12,12 @@
 
 ###
 
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=brubms.brubms&"  />
+</div>
+
+###
+
 <h3 data-importer="text" align="center">Sou Bruno Martins, baiano e futuro desenvolvedor backend Java. Bem-vindo ao meu GitHub!<br><br>Desenvolvedor Backend Java em formação. Estudando Java puro, lógica e boas práticas rumo à primeira vaga.</h3>
 
 ###
@@ -51,5 +57,9 @@
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=brubms&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
